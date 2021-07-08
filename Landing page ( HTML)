@@ -1,0 +1,27 @@
+<html>
+ <head>
+ <title>Project Review Portal</title>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initialscale=1.0">
+ <script src="https://use.fontawesome.com/f74ffa6e4d.js"></script>
+ <link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min
+.css" integrity="sha384-
+Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgF
+AW/dAiS6JXm" crossorigin="anonymous">
+ <link rel="stylesheet" href="index.css">
+ </head>
+ <body>
+ <center>
+ <h1>Project Review portal</h1><br>
+ <div class="card" >
+ <i class="fa fa-3x fa-graduation-cap" ariahidden="true"></i>&nbsp;&nbsp;&nbsp;<a
+href="studlogin.html"><button class="btn btn-secondary">Student
+Login</button></a><br><br><br><br>
+ <i class="fa fa-3x fa-user-o " aria-hidden="true"
+></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="teachlogin.html"><button
+class="btn btn-secondary">Faculty login</button></a>
+ </div>
+ </center>
+ </body>
+</html>
