@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Project Review Portal</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <center>
+        <div class="card">
+            <div class="image">
+                <img src="http://chennai.vit.ac.in/files/iconaces2020/assets/img/logo.png" width= "539">
+            </div>
+            <br><br>
+            <div>
+        <form action="authteach" method="POST">
+            <input type="text" name="user" class="input" placeholder="Teacher ID"><br><br>
+            <input type="password" name="password" class="input" placeholder="password"><br><br>
+            <input type="submit">
+        </form>
+                </div>
+            <br><br>
+        </div>
+    </center>
+    </body>
+</html>
